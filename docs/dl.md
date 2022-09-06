@@ -19,13 +19,10 @@ permalink: dl
 <button type="button" class="btn btn-light active w-100 text-left">{{ opt }}</button> |{% endfor %}
 
 #### Answer
-<details markdown=1>
-<summary> Click here </summary>
 <button type="button" class="btn btn-light active w-100 text-left"> {{ question.ans }} </button>
 
 #### Solution
 {{ question.sol }}
-</details>
 
 ---
 
