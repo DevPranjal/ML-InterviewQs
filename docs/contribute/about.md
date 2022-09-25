@@ -1,8 +1,9 @@
 ---
 layout: default
 title: About us
-nav_order: 7
+parent: Contribute
 permalink: about
+nav_order: 1
 ---
 
 # About Us
